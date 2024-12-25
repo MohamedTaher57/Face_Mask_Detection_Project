@@ -5,6 +5,7 @@ This is a face mask detection project that uses deep learning techniques to dete
 - Detects face masks in real-time using a webcam or pre-recorded videos.
 - Pre-trained models provided for quick testing.
 - Supports easy retraining with custom datasets.
+
 #-------------------------------#
 ## Dataset
 The project uses a public dataset of face mask images, including images of people with and without masks. The dataset can be downloaded [here](#).
